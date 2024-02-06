@@ -1,6 +1,6 @@
 {
 
-	"Visibility": "0",
+	"Visibility": "1",
 	"Description": "You're using an old version of Ryumoto GFX \n Please Update your app to new version.",
 	"MainTextButton": "UPDATE",
 	"CancelButtonText": "Cancel",
