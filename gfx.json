@@ -1,11 +1,16 @@
 [
-  {
+   {
+      "web":"1",
+      "title":"Ryumoto GFX V1.96",
+      "date":"March 14 2024",
+      "desc":"[ NEW UPCOMING SKINS ]\n\n- Fredrin Sparkle\n- Mellissa Sparkle\n- Moskov Infernal Wyrmlord\n- Estes Sparkle\n- Vexana Twisted Fairytale\n\n[ NEW REVAMPED SKINS ]\n\n- Sun Backup\n- Sun Wicked Flames\n- Sun Spring Blessings\n- Sun Rock Star\n- Sun Street Legend\n- Sun Simian Curse\n- Aurora Backup\n- Aurora Kula Diamond\n- Aurora Foxy Lady\n- Aurora Heartbreak Empress\n- Aurora Aquarius\n- Claude Mecha Dragon\n\n[ NEW FEATURE ]\n\n- Open MLBB in Notification for Android 11 and above OS\n\n\n[ NEW FIXED FEATURE ]\n\n- Fixed when reinstalling the app, it will skip the permission page for Android 11 and newer OS."
+   },
+   {
       "web":"1",
       "title":"Ryumoto GFX V1.95",
       "date":"February 14 2024",
       "desc":"[ NEW UPCOMING SKINS ]\n\n- Minsitthar Sol Invictus\n- Zilong Dragon of Prosperity\n\n\n[ NEW SKINS ]\n\n- Novaria Dark Star\n\n[ NEW FIXED SKINS ]\n\n- Novaria Starlight no image fixed"
    },
-
    {
       "web":"1",
       "title":"Ryumoto GFX V1.94",
